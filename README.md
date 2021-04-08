@@ -14,4 +14,3 @@ __Hello__
 alert('Hey!)
 ```
 [Practicum](https://practicum.yandex.com/)
-.
