@@ -1,9 +1,9 @@
 # My First Project
 ## A second-level heading
-*Welcome* 
-__Hello__ 
-**Now this is _bold_** 
-~Nevermind~ 
+*Welcome*   
+__Hello__   
+**Now this is _bold_**   
+~Nevermind~  
 1. One
 2. Two
 3. Three
